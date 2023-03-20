@@ -21,12 +21,6 @@ If you usage `ASM` also add:
 --add-opens=java.base/jdk.internal.org.objectweb.asm.util=ALL-UNNAMED
 ```
 
-## Plugin
+## Documentation
 
-### Usage
-
-Drag the plugin file to the plugin folder
-
-### Custom
-
-[example-cafully-plugin](https://github.com/Cafully/example-cafully-plugin)
+Please view [more](https://cafully.enaium.cn)
